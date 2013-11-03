@@ -1,5 +1,5 @@
 <?php
-
+// 停止开发这部分， 因为手动复制更加快
 // 讲座信息 http://news.tongji.edu.cn/classid-21.html
 
 set_time_limit(0);
